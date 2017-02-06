@@ -16,6 +16,7 @@ ___
 
 [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
 
+___
 
 #### Data
 
