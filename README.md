@@ -14,7 +14,15 @@ ___
 
 ___
 
-[Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)
+[Wasserstein GAN in Tensorflow](https://github.com/martinarjovsky/WassersteinGAN)
+
+___
+
+[DCGANs in Tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+
+___
+
+[EBGANs in Tensorflow](https://github.com/shekkizh/EBGAN.tensorflow)
 
 ___
 
