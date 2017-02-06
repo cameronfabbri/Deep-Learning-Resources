@@ -1,7 +1,7 @@
 # Deep-Learning-Resources
 Organized list of deep learning resources
 
-#### Projects
+### Projects
 
 [TensorKart - Playing Mario Kart 64 with Tensorflow](https://github.com/kevinhughes27/TensorKart)
 
@@ -18,7 +18,7 @@ ___
 
 ___
 
-#### Data
+### Data
 
 [Street Map Plugin for Unreal Engine 4](https://github.com/ue4plugins/StreetMap)
 
