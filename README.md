@@ -26,6 +26,10 @@ ___
 
 ___
 
+[Energy Based GANs NIPS 2016 Workshop Slides](https://drive.google.com/file/d/0BxKBnD5y2M8NbzBUbXRwUDBZOVU/view)
+
+___
+
 [How to train a GAN?](https://github.com/soumith/ganhacks)
 
 ___
