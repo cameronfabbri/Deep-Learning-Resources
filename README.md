@@ -26,6 +26,10 @@ ___
 
 ___
 
+[How to train a GAN?](https://github.com/soumith/ganhacks)
+
+___
+
 ### Data
 
 [Street Map Plugin for Unreal Engine 4](https://github.com/ue4plugins/StreetMap)
