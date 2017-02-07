@@ -34,6 +34,10 @@ ___
 
 ___
 
+[GA3C: Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU](https://github.com/NVlabs/GA3C)
+
+___
+
 ### Data
 
 [Street Map Plugin for Unreal Engine 4](https://github.com/ue4plugins/StreetMap)
