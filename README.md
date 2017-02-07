@@ -49,3 +49,10 @@ ___
 
 ### Papers
 
+___
+
+[GA3C: GPU-based A3C for Deep Reinforcement Learning](https://arxiv.org/pdf/1611.06256.pdf)
+
+___
+
+[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
